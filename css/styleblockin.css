@@ -1,0 +1,12 @@
+h1{
+dispaly:inline-block;
+}
+h2{
+  display:inline;
+}
+
+.box{
+width:100px;
+height:100px;
+background-color: red;
+}
